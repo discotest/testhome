@@ -3,9 +3,6 @@ import React from 'react';
 import styled from 'styled-components';
 import {
 } from 'react-router-dom';
-//import BackgroundImage from 'components/BackgroundImage';
-//import Album from 'components/Album';
-//import defaultProfilePic from 'assets/default_profile.png';
 import { MEDIUM_DEVICES_WIDTH } from 'utils/constants';
 import Navbar from 'components/Navbar';
 
